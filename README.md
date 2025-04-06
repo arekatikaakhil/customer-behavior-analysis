@@ -1,0 +1,2 @@
+# customer-behavior-analysis
+ Analyze a Kaggle clothing review dataset to uncover consumer behavior patterns and develop data-driven product recommendations. This project leverages Python-based data processing, logistic regression models, sentiment analysis, and visualization techniques to understand how factors such as age, rating, and review text length affect the likelihood of product recommendations.
